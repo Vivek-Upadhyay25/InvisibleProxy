@@ -12,7 +12,7 @@ This Python script launches a real (non-headless can be use as headless just nee
 - 🌍 Routes all traffic through authenticated proxies
 - 🔐 Proxy credentials are stored **only** in `config.json` (not in the code)
 - 🧪 Lets you manually browse any website (good for geo-testing, anti-bot bypassing)
-- 📦 Easy to run, GitHub-safe project
+
 
 
  🛠️ Requirements
