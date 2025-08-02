@@ -14,3 +14,18 @@ This Python script launches a real (non-headless can be use as headless just nee
 - 🧪 Lets you manually browse any website (good for geo-testing, anti-bot bypassing)
 - 📦 Easy to run, GitHub-safe project
 
+
+ 🛠️ Requirements
+
+- Python 3.7 or higher
+- Pip
+- Playwright
+
+Install everything:
+
+```bash
+pip install playwright
+playwright install
+
+
+That's done - Run and Explore.
