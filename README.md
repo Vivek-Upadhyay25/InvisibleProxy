@@ -30,4 +30,5 @@ playwright install
 
 That's done - Run and Explore.
 
+for Adv you can add diff fingerprints as needed ( UA, Kernal Info, Canva, WebGL etc can be change by using third party plugins. )
 
