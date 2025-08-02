@@ -1,0 +1,8 @@
+{
+  "proxy": {
+    "host": "Host (not to use IP)",
+    "port": "Server Port",
+    "username": "Use Your CR",
+    "password": "Use your CR"
+  }
+}
