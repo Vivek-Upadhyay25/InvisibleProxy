@@ -31,6 +31,3 @@ playwright install
 That's done - Run and Explore.
 
 
-Demo-
-<img width="1365" height="677" alt="image" src="https://github.com/user-attachments/assets/2ef0323b-5f18-4b3a-9fd3-44486a02cc08" />
-
